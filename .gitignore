@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Model files (too large for git)
+rag_qa/models/
+
+# Data files
+rag_qa/data/
+
+# Logs
+logs/
+
+# IDE
+.idea/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
